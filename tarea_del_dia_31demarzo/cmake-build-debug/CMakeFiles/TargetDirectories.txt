@@ -1,0 +1,3 @@
+C:/Users/leste/OneDrive/Escritorio/tarea_del_dia_31demarzo/cmake-build-debug/CMakeFiles/tarea_del_dia_31demarzo.dir
+C:/Users/leste/OneDrive/Escritorio/tarea_del_dia_31demarzo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leste/OneDrive/Escritorio/tarea_del_dia_31demarzo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
